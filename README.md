@@ -1,5 +1,5 @@
 /* New Things Every Day — Day 98 */
-/* Generates a daily execution log with a random performance metric */
+/* Generates a daily execution log with a random performance metri */
 
 function dailyLog98() {
     const log = {
